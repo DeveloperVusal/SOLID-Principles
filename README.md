@@ -7,4 +7,7 @@
 
 <br>
 
-## Диаграмма классов, описывающая проблему
+### Ссылки
+
+* [Telegram Channel](https://t.me/vusaldev_events)
+* [YouTube Channel](https://www.youtube.com/channel/UCikZg6wQNsui4ZNoQS6e3YQ)
